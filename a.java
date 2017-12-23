@@ -34,7 +34,7 @@ public class a
 	    System.out.println("Enter the item_name");
 	    String item_name=sc.next();
 	    System.out.println("Enter the price");
-	    int price=sc.nextInt();
+	    float price=sc.nextFloat();
 	    System.out.println("Enter the quantity");
 	    int qty=sc.nextInt();
 		Bakery b=new Bakery(item_name,price,qty);
