@@ -17,7 +17,7 @@ class IndoorGame extends Game
     }
 }
 
-public class Main
+public class e
 {
     static Scanner sc=new Scanner(System.in);
 	public static void main(String[] args) {
