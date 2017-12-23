@@ -23,7 +23,7 @@ class Cricket
     }
 }
 
-public class Main
+public class b
 {
     static Scanner sc=new Scanner(System.in);
 	public static void main(String[] args) {
