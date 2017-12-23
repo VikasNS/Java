@@ -1,8 +1,12 @@
 /******************************************************************************
 
-                            Online Java Compiler.
-                Code, Compile, Run and Debug java program online.
-Write your code in this editor and press "Run" button to execute it.
+                            There is a base class called &#39;Icecream&#39; containing two number attributes &#39;price&#39;
+and &#39;qty&#39;, string attributes &#39;name&#39; and &#39;flavour&#39;. It also has a method called &#39;priceToPay&#39;
+that returns the total price to be paid by the user.
+Scenairo:
+You must ensure that the sub-class &#39;ConeIceCream&#39; can be subjected to further
+derivations while &#39;CupIceCream&#39; cannot be sub-classed.
+Hint: Use final with ‘CupIceCream’ as final class CupIceCream { //define the class }.
 
 *******************************************************************************/
 import java.util.Scanner;
