@@ -1,8 +1,13 @@
 /******************************************************************************
 
-                            Online Java Compiler.
-                Code, Compile, Run and Debug java program online.
-Write your code in this editor and press "Run" button to execute it.
+                            There is a class called &#39;Cricket&#39; which contains number attributes &#39;overs&#39; and
+&#39;runs&#39; and a string attribute called &#39;team_name&#39;. It also has a method called &#39;display&#39;
+displaying the details of these attributes.
+Scenairo:
+You must allow the user at run-time to create as many objects of &#39;Cricket&#39; as s(he)
+desires.  
+Hint: Use ‘Array of Cricket objects’ as Cricket[ ] objCricket = new Cricket[n] where
+‘n’ value is taken from user at run-time
 
 *******************************************************************************/
 import java.util.Scanner;
